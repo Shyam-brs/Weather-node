@@ -6,4 +6,4 @@
 #### Technologies used:
       HTML, CSS, Node.js, Express.js
 
-#### Dear Students, Check out the live app [here](http://203.193.173.125:4003/).
+#### Check out the live app [here](https://weather-node-yioo.onrender.com/).
